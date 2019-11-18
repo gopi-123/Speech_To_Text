@@ -4,7 +4,6 @@ Recognizes your speech in mp3 audio file, wav file or laptop microphone and conv
 To do this mini project, I referred online tutorials and used Google Speech API
 
 (Goal: feeding the audio file to a speech recognition system)
-
 #### How to run:
 
 ##### You can run with audio .wav as input file 
