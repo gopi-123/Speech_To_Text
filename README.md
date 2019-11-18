@@ -8,16 +8,17 @@ To do this mini project, I referred online tutorials and used Google Speech API
 ##### You can run with audio .wav as input file 
 python final_wav_to_text.py wav_test_1.wav 
 
-or 
-##### or without wav input file (Just speak to microphone)
+
+##### without wav input file (Just speak to microphone)
 $ python final_wav_to_text.py 
 
 OR 
+
 $python laptop_speech_to_text.py
 
-input as .wav audio file 
+input:  .wav audio file 
 
-output: as text
+output: text
 (Goal feeding the audio file to a speceh recongition system)
 
 
@@ -29,6 +30,6 @@ Inside the following program, change the input variable "mp3_filename" with your
 
 Example: mp3_filename = "test_1.mp3"
 
-## how to run
+#### how to run
 $ python convert_audio_mp3_file_to_text.py
 
